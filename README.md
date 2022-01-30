@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Tech
-<h3 align="center">💻 My Tech Stack</h3>
+<h2 align="center">💻 My Tech Stack</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
