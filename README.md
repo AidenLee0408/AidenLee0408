@@ -1,9 +1,6 @@
 
-**AidenLee0408/AidenLee0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AidenLee%20이유민&animation=twinkling&fontsize=100)
-<p align="center"> Hi 🤗 I'm Aiden Lee. Be helpful! </p>
+<p align="center"> Hi 🤗 I'm Aiden Lee. I will cover topics related to front-end development. <br> <h3>Be helpful!</h3> </p>
 
 
 <h2 align="center">💻 My Tech Stack</h2>
