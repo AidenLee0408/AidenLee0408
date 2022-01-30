@@ -1,12 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=AidenLee%20이유민&animation=twinkling&fontsize=100)
+<br>
 <h4 align="center"> Hi! I'm Aiden Lee. I will cover topics related to front-end development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
 
-
-
-
-
-
+<br>
+<br>
 
 <h1 align="center">💻 My Tech Stack</h1>
 
