@@ -38,6 +38,6 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer)
 
 
