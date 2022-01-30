@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AidenLee의 블로그)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AidenLee의블로그)
 {
         "idx" : 0 ,
         "색상" : {
