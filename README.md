@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <p align="center"> Hi 🤗 I'm Aiden Lee.👨‍💻 Be helpful! </p>
 
 
-## Tech
 <h2 align="center">💻 My Tech Stack</h2>
 
 <p align="center">
