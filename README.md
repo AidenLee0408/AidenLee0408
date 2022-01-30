@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=AidenLee의블로&animation=blink&fontsize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=AidenLee의블로&animation=blinking&fontsize=100)
 {
         "idx" : 0 ,
         "색상" : {
