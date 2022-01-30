@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=AidenLee%20FE_Dev&animation=twinkling&fontsize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=AidenLee%20FE_Dev&animation=twinkling&fontsize=60)
 <br>
 <h4 align="center"> Hi! I'm Aiden Lee. I will cover topics related to front-end development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
 
