@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AidenLee의%20이유민&animation=twinkling&fontsize=100)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Typescript-#3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Typescript-#3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
 
