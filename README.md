@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AidenLee의%20이유민&animation=twinkling&fontsize=100)
-<p align="center"> Hi 🤗 I'm Aiden Lee.👨‍💻 Be helpful! </p>
+<p align="center"> Hi 🤗 I'm Aiden Lee. Be helpful! </p>
 
 
 <h2 align="center">💻 My Tech Stack</h2>
