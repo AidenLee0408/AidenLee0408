@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AidenLee0408/AidenLee0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AidenLee의블로그)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AidenLee의블로&fontsize=100)
 {
         "idx" : 0 ,
         "색상" : {
