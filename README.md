@@ -36,7 +36,7 @@
 </p>
 
 <br>
-https://img.shields.io/github/followers/AidenLee0408?color=red&style=for-the-badge
+![GitHub followers](https://img.shields.io/github/followers/AidenLee0408?color=red&style=for-the-badge)
 
 <br>
 
