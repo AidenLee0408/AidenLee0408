@@ -18,8 +18,8 @@
  </p>
  
  <br>
+ <h1 align="center">Tools</h1>
  <p align="center">
-  <p align="center">Tools</p>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github Desktop-181717?style=flat-square&logo=Github&logoColor=white"/>
