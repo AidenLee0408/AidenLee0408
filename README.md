@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Front-End&animation=twinkling&fontsize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee Yumin&animation=twinkling&fontsize=60)
 <br>
-<h4 align="center"> Hi! I'm Aiden Lee. <br> I will cover topics related to front-end development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
+<h4 align="center"> Hi! I'm Aiden Lee. <br> I will cover topics related to TypeScript and front-end development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
 
 <br>
 <br>
@@ -33,7 +33,7 @@
 
 
 
-<h3 align="center"> 🔥 Me </h3>
+<h3 align="center"> About Me </h3>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100057500534499"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100057500534499"/></a>&nbsp
   <a href="mailto:aiden020408@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=aiden020408@gmail.com"/></a>
