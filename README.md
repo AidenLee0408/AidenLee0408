@@ -4,6 +4,13 @@
 <h4 align="center"> Hi! I'm Aiden Lee. <br> I will cover topics related to TypeScript and front-end development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
 
 <br>
+<!-- <p align="center">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AidenLee0408?color=red&style=for-the-badge">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AidenLee0408/AidenLee0408?color=red&style=for-the-badge">
+</p>
+ -->
+<br>
+
 <br>
 
 <h1 align="center">💻 My Tech Stack</h1>
@@ -41,12 +48,7 @@
 
 <br>
 
-<!-- <p align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/AidenLee0408?color=red&style=for-the-badge">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AidenLee0408/AidenLee0408?color=red&style=for-the-badge">
-</p>
- -->
-<br>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=40&section=footer)
 
