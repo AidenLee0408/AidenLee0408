@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee Yumin&animation=twinkling&fontsize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee%20Yumin&animation=twinkling&fontsize=60)
 <br>
 <h4 align="center"> Hi! I'm Aiden Lee. <br> I will cover topics related to TypeScript and front-end development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
 
