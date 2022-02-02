@@ -35,7 +35,7 @@
   <a href="https://www.notion.so/ko-kr"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <br>
   <p>UI 디자인 툴</p>
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-C7B9FF?style=flat-square&logo=Figma&logoColor=white"/></a>
   <br>
   <p>Git GUI</p>
   <img src="https://img.shields.io/badge/Github Desktop-181717?style=flat-square&logo=Github&logoColor=white"/>
