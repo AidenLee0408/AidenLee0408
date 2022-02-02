@@ -12,10 +12,7 @@
   <a href="mailto:aiden020408@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=aiden020408@gmail.com"/></a>
 </p>
 
-<br>
-
-<br>
-
+<br><br>
 <h1 align="center">💻 My Tech Stack</h1>
 
 <p align="center">
@@ -27,8 +24,9 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
  </p>
  
- <br>
+ <br><br>
  <h1 align="center">🛠️Tools</h1>
+ <br>
  <div align="center">
   <h4> -Team Collaboration Tools</h4>
   <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
