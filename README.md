@@ -14,9 +14,8 @@
 
 <br><br>
 
-
-<h2 align="center">
-  <p>💻 My Tech Stack</p>
+<h1 align="center">💻 My Tech Stack</h1><br>
+<div align="center">
   <a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
@@ -27,14 +26,14 @@
  
  <br>
  
- <h2 align="center">
-  <p> Tools</p>
+ <h1 align="center"> Tools</h1> <br>
+ <div align="center">
   <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <a href="https://www.notion.so/ko-kr"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/Git & Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-C7B9FF?style=flat-square&logo=Figma&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-</h2>
+</div>
 
  
 
