@@ -30,7 +30,7 @@
  <br>
  <h1 align="center">🛠️Tools</h1>
  <div align="center">
-  <p>협업 툴</p>
+  <h5>협업 툴</h5>
   <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <a href="https://www.notion.so/ko-kr"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <br>
