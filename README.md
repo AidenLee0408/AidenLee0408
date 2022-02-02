@@ -37,7 +37,7 @@
 </div>
 
  <br><br>
- <h1 align="center">👨‍💻 My repositary</h1>
+ <h1 align="center">👨‍💻 My repositories</h1>
 
 
 <!-- <p align="center">
