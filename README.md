@@ -30,7 +30,7 @@
  <br>
  <h1 align="center">🛠️Tools</h1>
  <div align="center">
-  <h5>협업 툴</h5>
+  <h4>협업 툴</h4>
   <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <a href="https://www.notion.so/ko-kr"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <br>
@@ -42,7 +42,6 @@
   <br>
   <p>IDE</p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/>
 </div>
 
 <!-- <p align="center">
