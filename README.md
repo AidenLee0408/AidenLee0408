@@ -31,7 +31,7 @@
  <h1 align="center">🛠️Tools</h1>
  <p align="center">
   <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-  <a href="https://www.notion.so/ko-kr"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <a href="https://www.notion.so/ko-kr"><img src="https://img.shields.io/badge/Notion-F24E1E?style=flat-square&logo=Notion&logoColor=white"/>
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github Desktop-181717?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
