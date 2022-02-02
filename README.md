@@ -37,7 +37,10 @@
 </div>
 
  <br><br>
- <h1 align="center">👨‍💻 My repositories</h1>
+ <h1 align="center">👨‍💻 My Repositories</h1>
+ <div align="center">
+  I'm going to share what I've studied and helpful materials here.
+ </div>
 
 
 <!-- <p align="center">
