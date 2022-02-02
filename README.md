@@ -36,7 +36,7 @@
   <p> -UI/UX Design Tool</p>
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-C7B9FF?style=flat-square&logo=Figma&logoColor=white"/></a>
   <br>
-  <p> IDE%100<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></p>
+  <p> IDE <br> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></p>
 </div>
 
 
