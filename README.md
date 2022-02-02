@@ -36,8 +36,9 @@
   <p> -UI/UX Design Tool</p>
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-C7B9FF?style=flat-square&logo=Figma&logoColor=white"/></a>
   <br>
-  <p> -IDE</p><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <p> -IDE<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></p>
 </div>
+
 
 <!-- <p align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AidenLee0408?color=red&style=for-the-badge">
