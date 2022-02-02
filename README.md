@@ -25,7 +25,7 @@
  </p>
  
  <br><br>
- <h1 align="center">🛠️Tools
+ 
 <br>
  <div align="center">
   <h4> -Team Collaboration Tools <br> 
@@ -38,7 +38,7 @@
   <br>
   <p> IDE <br> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></p>
 </div>
-</h1>
+
  
 
 
