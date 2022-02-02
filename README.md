@@ -26,17 +26,16 @@
  
  <br><br>
  
- <div align="center">
-  <h2> -Team Collaboration Tools <br> 
+ <h2 align="center">
+  <p> -Team Collaboration Tools <br> 
   <a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <a href="https://www.notion.so/ko-kr"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/Git & Github-181717?style=flat-square&logo=Github&logoColor=white"/></a></h2>
-  
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Git & Github-181717?style=flat-square&logo=Github&logoColor=white"/></a></p>
   <br>
   <p> -UI/UX Design Tool <br> <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-C7B9FF?style=flat-square&logo=Figma&logoColor=white"/></a></p>
   <br>
   <p> IDE <br> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></p>
-</div>
+</h2>
 
  
 
