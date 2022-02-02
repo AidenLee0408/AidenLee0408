@@ -39,7 +39,7 @@
  <br><br>
  <h1 align="center">👨‍💻 My Repositories</h1>
  <div align="center">
-  I'm going to share what I've studied and helpful materials here.
+  I will organize the contents of my study and helpful materials into a list and share them in here.
  </div>
 
 
