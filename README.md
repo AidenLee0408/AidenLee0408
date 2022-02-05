@@ -33,7 +33,7 @@
   <a href="https://www.notion.so/ko-kr"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/Git & Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-C7B9FF?style=flat-square&logo=Figma&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Visual Studio Code-C7B9FF?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 </div>
 
  <br><br>
