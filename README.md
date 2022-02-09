@@ -6,7 +6,7 @@
 <br>
 
 
-<h3 align="center"> Conttact Me </h3>
+<h3 align="center"> Contact Me </h3>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100057500534499"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100057500534499"/></a>&nbsp
   <a href="mailto:aiden020408@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=aiden020408@gmail.com"/></a>
