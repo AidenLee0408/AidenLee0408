@@ -6,9 +6,9 @@
 <br>
 <h3 align="center"> Interesting TOPIC </h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/FrontEnd-E34F26?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FrontEnd-ff0000?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/Web3.0-ff0000?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Blockchain-E34F26?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blockchain-ff0000?style=flat-square&logoColor=white"/>
 </div>
 
 
