@@ -4,8 +4,15 @@
 <h4 align="center"> Hi! I'm Aiden Lee. My major is computer science.<br> I will cover topics related to TypeScript and front-end development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
 
 <br>
+<h3 align="center"> Interesting TOPIC </h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/FrontEnd-E34F26?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web3.0-E34F26?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blockchain-E34F26?style=flat-square&logoColor=white"/>
+</div>
 
 
+<br>
 <h3 align="center"> Contact Me </h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/aiden-lee-4a4a4622a/"><img src="https://img.shields.io/badge/Linked In-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp
