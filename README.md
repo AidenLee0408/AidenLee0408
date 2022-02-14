@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=I'm not just a developer. I'm the one trying to solve the problems of the world given to us.&animation=twinkling&fontsize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Iam not just a developer. I am the one trying to solve the problems of the world given to us.&animation=twinkling&fontsize=30)
 <br>
 <h4 align="center"> Hi! I'm Aiden Lee. My major is computer science.<br> I will cover topics related to TypeScript and front-end development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
 
