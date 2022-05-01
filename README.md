@@ -50,9 +50,9 @@
  </div>
 
 <div>
-    <ul>
+    <ol>
         <li>typescript</li>
-    </ul>    
+    </ol>    
 </div>
 
 <!-- <p align="center">
