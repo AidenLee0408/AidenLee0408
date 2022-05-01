@@ -51,9 +51,9 @@
 
 <br>
 <div>
-    <ol>
+    <ul>
         <li>typescript</li>
-    </ol>    
+    </ul>    
 </div>
 
 <!-- <p align="center">
