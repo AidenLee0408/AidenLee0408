@@ -47,7 +47,7 @@
  <h1 align="center">👨‍💻 My Repositories</h1>
  <div align="center">
   <h4>I will organize the contents of my study and helpful materials into a list and share them in here.</h4>
-    <div align="left">
+    <div>
     <ul>
         <li>typescript</li> <li>typescript</li>
     </ul>    
