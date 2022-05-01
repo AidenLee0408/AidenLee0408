@@ -50,7 +50,7 @@
  </div>
 
 <br>
-<div>
+<div align="left">
     <ul>
         <li>typescript</li>
     </ul>    
