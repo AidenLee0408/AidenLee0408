@@ -47,13 +47,14 @@
  <h1 align="center">👨‍💻 My Repositories</h1>
  <div align="center">
   <h4>I will organize the contents of my study and helpful materials into a list and share them in here.</h4>
- </div>
-
-<div align="left">
+    <div align="left">
     <ul>
         <li>typescript</li> <li>typescript</li>
     </ul>    
-</div>
+    </div>
+ </div>
+
+
 
 <!-- <p align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AidenLee0408?color=red&style=for-the-badge">
