@@ -33,7 +33,7 @@
   <a href="https://vitejs-kr.github.io/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/></a>
   <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/Web3.js-16822?style=flat-square&logo=Web3.js&logoColor=white"/></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
-  <a href="https://aws.amazon.com/ko/"><img src="https://img.shields.io/badge/AWS-F79400?style=flat-square&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/ko/"><img src="https://img.shields.io/badge/AWS-F79400?style=flat-square&logo&AWSlogoColor=white"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a><br>
  </h2>
  
