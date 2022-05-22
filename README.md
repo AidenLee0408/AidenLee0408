@@ -26,11 +26,12 @@
 <div align="center">
   <a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/Tailwind css-06B6D4?style=flat-square&logo=Tailwind css&logoColor=white"/></a>
   <a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
   <a href="https://docs.soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>
   <a href="https://vitejs-kr.github.io/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/></a>
-  <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/web3.js-#16822?style=flat-square&logo=web3.js&logoColor=white"/></a>
+  <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/Web3.js-16822?style=flat-square&logo=Web3.js&logoColor=white"/></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
   <a href="https://aws.amazon.com/ko/"><img src="https://img.shields.io/badge/AWS-F79400?style=flat-square&logoColor=white"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a><br>
