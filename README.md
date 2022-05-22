@@ -31,7 +31,7 @@
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
   <a href="https://docs.soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>
   <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/Web3.js-16822?style=flat-square&logo=Web3.js&logoColor=white"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a><br>
   <a href="https://vitejs-kr.github.io/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
   <a href="https://aws.amazon.com/ko/"><img src="https://img.shields.io/badge/AWS-F79400?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
