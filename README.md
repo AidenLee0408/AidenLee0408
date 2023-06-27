@@ -6,13 +6,19 @@
 <br>
 <h3 align="center"> Interesting TOPIC </h3>
 <div align="center">
-    <a href="https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80_%EB%B0%B1%EC%97%94%EB%93%9C"><img src="https://img.shields.io/badge/FrontEnd-ff0000?style=flat-square&logoColor=white"/></a>
+    <a href="https://www.adobe.com/kr/creativecloud/design/hub/guides/what-you-should-know-about-user-experience."><img src="https://img.shields.io/badge/UX-ff0000?style=flat-square&logoColor=white"/></a>
     <a href="https://developer.android.com/?hl=ko"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/?hl=ko"/></a>
     <a href="https://ko.wikipedia.org/wiki/%EC%9B%B9_3.0"><img src="https://img.shields.io/badge/DApps-ff0000?style=flat-square&logoColor=white"/></a>
     <a href="https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4"><img src="https://img.shields.io/badge/DID-ff0000?style=flat-square&logoColor=white"/></a>
     <a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"><img src="https://img.shields.io/badge/Blockchain-ff0000?style=flat-square&logoColor=white"/></a>
 </div>
 
+<h3 align="center"> 🛠️ STACK </h3>
+<div align="center">
+    <a href="https://developer.android.com/?hl=ko"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/?hl=ko"/></a>
+    <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+    <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+</div>
 
 <br>
 <h3 align="center"> Contact Me </h3>
