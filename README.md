@@ -11,6 +11,7 @@
     <a href="https://ko.wikipedia.org/wiki/%EC%9B%B9_3.0"><img src="https://img.shields.io/badge/DApps-ff0000?style=flat-square&logoColor=white"/></a>
     <a href="https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4"><img src="https://img.shields.io/badge/DID-ff0000?style=flat-square&logoColor=white"/></a>
     <a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"><img src="https://img.shields.io/badge/Blockchain-ff0000?style=flat-square&logoColor=white"/></a>
+    <a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"><img src="https://img.shields.io/badge/DID & SSI-ff0000?style=flat-square&logoColor=white"/></a>
 </div>
 
 <h3 align="center"> 🛠️ STACK </h3>
