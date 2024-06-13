@@ -3,7 +3,7 @@
 <br>
 
 <h3 align="center">HELLO WORLD! 🤗</h3><br>
-<h4 align="center"> I'm a software developer. <br> Using software technology to solve the problems we have in the world and present a better vision. </h4>
+<h4 align="center"> I'm a software developer. <br> Using software technology to solve the problems we have in the world <br> and present a better vision. </h4>
 <br>
 
 <div align="center">
