@@ -3,8 +3,8 @@
 <br>
 <h4 align="center"> Hi! I'm Aiden Lee. My major is computer science.<br> I will cover topics related to DID & DApps development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
 <br>
-<image src="
-https://private-user-images.githubusercontent.com/89402202/339475887-d4eac8ef-8b57-4d37-8c85-4a95a25f0bc9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgyOTc5ODcsIm5iZiI6MTcxODI5NzY4NywicGF0aCI6Ii84OTQwMjIwMi8zMzk0NzU4ODctZDRlYWM4ZWYtOGI1Ny00ZDM3LThjODUtNGE5NWEyNWYwYmM5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjEzVDE2NTQ0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1NDVlZGFmNjg4NTZhZjVjMzE0MGFiODRhZWE4OTEyZTAxYjYyODRmMDk4NGU2ZGIwYzI2MGY0ZGY4YTU5NDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.SC64Vr_vu3TyPmR24XY4JCwZHQr-L-GNUXyY_h3pawY">
+<image src="https://github.com/AidenLee0408/AidenLee0408/issues/1#issue-2351611578
+">
 
 
 <br>
