@@ -3,12 +3,15 @@
 <br>
 
 <h3 align="center">🇰🇷 HELLO WORLD! 🤗</h3><br>
-<h4 align="center"> Using software technology to solve the problems <br> we have in the world and present a better vision. </h4>
-<br>
 
 <div align="center">
 <img src="https://github.com/AidenLee0408/AidenLee0408/assets/89402202/d4eac8ef-8b57-4d37-8c85-4a95a25f0bc9">
 </div>
+<br>
+
+<h4 align="center"> "Using software technology to solve the problems <br> we have in the world and present a better vision." </h4>
+
+
 
 <br>
 <h3 align="center"> Interesting TOPIC </h3>
