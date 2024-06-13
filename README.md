@@ -3,7 +3,7 @@
 <br>
 
 <h3 align="center">🇰🇷 HELLO WORLD! 🤗</h3><br>
-<h4 align="center"> My name is Lee Yumin. I'm a software developer. <br> Using software technology to solve the problems <br> we have in the world and present a better vision. </h4>
+<h4 align="center"> Using software technology to solve the problems <br> we have in the world and present a better vision. </h4>
 <br>
 
 <div align="center">
