@@ -2,6 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Lee%20Yumin&animation=twinkling&fontsize=50)
 <br>
 <h4 align="center"> Hi! I'm Aiden Lee. My major is computer science.<br> I will cover topics related to DID & DApps development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
+<br>
+<p align="center">
+https://github.com/AidenLee0408/AidenLee0408/issues/1#issue-2351611578
+</p>
 
 <br>
 <h3 align="center"> Interesting TOPIC </h3>
@@ -39,6 +43,7 @@
 </p>
  -->
 <br><br><br>
+
 
 
 
