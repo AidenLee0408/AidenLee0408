@@ -1,9 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Lee%20Yumin&animation=twinkling&fontsize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Aiden%20Lee&animation=twinkling&fontsize=50)
 <br>
 
-<h3 align="center">HELLO WORLD! 🤗</h3><br>
-<h4 align="center"> My name is Lee Yumin. I'm a software developer.🧑‍💻 <br> Using software technology to solve the problems <br> we have in the world and present a better vision. </h4>
+<h3 align="center">🧑‍💻 HELLO WORLD! 🤗</h3><br>
+<h4 align="center"> My name is Lee Yumin. I'm a software developer. <br> Using software technology to solve the problems <br> we have in the world and present a better vision. </h4>
 <br>
 
 <div align="center">
