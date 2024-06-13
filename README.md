@@ -4,9 +4,9 @@
 <h4 align="center"> Hi! I'm Aiden Lee. My major is computer science.<br> I will cover topics related to DID & DApps development. <br> <h3 align="center">Be helpful! 🤗</h3> </h4>
 <br>
 
-<a align="center" href="![20240614_014416](https://github.com/AidenLee0408/AidenLee0408/assets/89402202/d4eac8ef-8b57-4d37-8c85-4a95a25f0bc9)
-">
-</a>
+<div align="center">
+![20240614_014416](https://github.com/AidenLee0408/AidenLee0408/assets/89402202/d4eac8ef-8b57-4d37-8c85-4a95a25f0bc9)
+</div>
 
 <br>
 <h3 align="center"> Interesting TOPIC </h3>
