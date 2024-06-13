@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-![20240614_014416](https://github.com/AidenLee0408/AidenLee0408/assets/89402202/d4eac8ef-8b57-4d37-8c85-4a95a25f0bc9)
+<img src="https://github.com/AidenLee0408/AidenLee0408/assets/89402202/d4eac8ef-8b57-4d37-8c85-4a95a25f0bc9">
 </div>
 
 <br>
