@@ -17,7 +17,7 @@
     <a href="https://developer.android.com/?hl=ko"><img src="https://img.shields.io/badge/Android Dev-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/?hl=ko"/></a>
     <a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"><img src="https://img.shields.io/badge/Blockchain Dev-000000?style=flat-square&logo=ethereum&logoColor=white"/></a>
     <a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"><img src="https://img.shields.io/badge/Dev using AI models-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a><br>
-    <a href="https://www.adobe.com/kr/creativecloud/design/hub/guides/what-you-should-know-about-user-experience."><img src="https://img.shields.io/badge/👍 User Experience-0000ff?style=flat-square&logoColor=white"/></a>
+    <a href="https://www.adobe.com/kr/creativecloud/design/hub/guides/what-you-should-know-about-user-experience."><img src="https://img.shields.io/badge/👍 SoftwareEngineering-ADE8F4?style=flat-square&logoColor=white"/></a>
     <a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"><img src="https://img.shields.io/badge/🤍 You-ffc0cb?style=flat-square&logoColor=white"/></a>
     
 </div>
