@@ -12,30 +12,20 @@
 
 <br>
 <br>
-<h3 align="center"> My Interesting Top Topics 5 </h3>
+
 <div align="center">        
-    
-    <a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"><img src="https://img.shields.io/badge/Blockchain Dev-000000?style=flat-square&logo=ethereum&logoColor=white"/></a>
-    
-    <a href="https://www.adobe.com/kr/creativecloud/design/hub/guides/what-you-should-know-about-user-experience."><img src="https://img.shields.io/badge/👍 SoftwareEngineering-ADE8F4?style=flat-square&logoColor=white"/></a>
-    
+  
     
 </div>
 
 <h3 align="center"> 💻 Skills </h3>
 <div align="center">
-    
-    
-
     <a href="https://soliditylang.org/?hl=ko"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white&link=https://developer.android.com/?hl=ko"/></a>
 </div>
 
 <br>
 <h3 align="center"> Contact Me </h3>
 <p align="center">
-    <a href="https://medium.com/@AidenLee0408"><img src="style=flat-square&logo=Medium&logoColor=white"/></a>
-    <a href="https://velog.io/@aidenlee0408/posts"><img src="style=flat-square&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/aiden-lee-4a4a4622a/"><img src="style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:aiden020408@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=aiden020408@gmail.com"/></a>    
 </p>
 
