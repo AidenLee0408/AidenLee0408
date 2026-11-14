@@ -1,5 +1,5 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-combined-mobile.png">
+  <source media="(max-width: 600px)" srcset="assets/profile-combined-mobile-v2.png">
   <img src="assets/profile-combined.png" width="1440" alt="Software Engineer · Builder. Real problems. Thoughtful software. I want to solve problems in the world through software. Hello, new world! 안녕하세요, 이유민입니다. 세상의 문제를 소프트웨어 기술로 해결하고 싶습니다. 문제를 이해하고, 아이디어를 만들고, 해결 방법을 찾아갑니다.">
 </picture>
 
