@@ -1,10 +1,10 @@
-![Aiden Lee — Software Engineer. Real problems. Thoughtful software. I want to solve problems in the world through software.](assets/profile-header.png)
+![Software Engineer · Builder. Real problems. Thoughtful software. I want to solve problems in the world through software.](assets/profile-header.png)
 
 <table>
 <tr>
 <td width="65%" valign="middle">
 
-### Hi, I'm Aiden.
+### Hello, new world
 
 안녕하세요, 이유민입니다.  
 세상의 문제를 소프트웨어 기술로 해결하고 싶습니다.  
