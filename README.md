@@ -1,50 +1,27 @@
+![Aiden Lee — Software Engineer. Real problems. Thoughtful software. I want to solve problems in the world through software.](assets/profile-header.png)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Aiden%20Lee&animation=twinkling&fontsize=50)
-<br>
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-<h3 align="center">🇰🇷 HELLO WORLD! 🤗</h3><br>
+### Hi, I'm Aiden.
 
-<div align="center">
-<img src="https://github.com/AidenLee0408/AidenLee0408/assets/89402202/d4eac8ef-8b57-4d37-8c85-4a95a25f0bc9">
-</div>
-<br>
-<h4 align="center"> "Using software technology to solve the problems <br> we have in the world and present a better vision." </h4>
+안녕하세요, 이유민입니다.  
+세상의 문제를 소프트웨어 기술로 해결하고 싶습니다.  
+문제를 이해하고, 아이디어를 만들고, 해결 방법을 찾아갑니다.
 
-<br>
-<br>
+</td>
+<td width="35%" valign="middle">
+<img src="https://github.com/AidenLee0408/AidenLee0408/assets/89402202/d4eac8ef-8b57-4d37-8c85-4a95a25f0bc9" width="220" alt="Aiden's original profile GIF">
+</td>
+</tr>
+</table>
 
-<div align="center">        
-  
-    
-</div>
+### On my GitHub
 
-<h3 align="center"> 💻 Skills </h3>
-<div align="center">
-    <a href="https://soliditylang.org/?hl=ko"><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white&link=https://developer.android.com/?hl=ko"/></a>
-</div>
+- **[side-toolkit ↗](https://github.com/AidenLee0408/side-toolkit)**
+- **[AndroidSimple ↗](https://github.com/AidenLee0408/AndroidSimple)** — 간단한 안드로이드 프로젝트 모음
 
-<br>
-<h3 align="center"> Contact Me </h3>
-<p align="center">
-  <a href="mailto:aiden020408@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=aiden020408@gmail.com"/></a>    
-</p>
+---
 
-<br><br>
-
-
-
-
-<!-- <p align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/AidenLee0408?color=red&style=for-the-badge">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AidenLee0408/AidenLee0408?color=red&style=for-the-badge">
-</p>
- -->
-<br><br><br>
-
-
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=40&section=footer)
-
-
+<sub>이유민 / Aiden Lee · <a href="mailto:aiden020408@gmail.com">Let's talk ↗</a></sub>
